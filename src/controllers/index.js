@@ -1,0 +1,8 @@
+export * as authController from './auth.controller'
+export * as userController from './user.controller'
+export * as uploadController from './upload.controller'
+export * as postController from './post.controller'
+export * as chatController from './chat.controller'
+export * as messageController from './message.controller'
+export * as commentController from './comment.controller'
+export * as notificationController from './notification.controller'
